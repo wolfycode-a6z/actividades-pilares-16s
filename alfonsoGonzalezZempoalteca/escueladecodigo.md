@@ -12,11 +12,7 @@ Escuela de Código es un innovador programa educativo dedicado a enseñar progra
 
 ## Líneas terminales
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wolfycode-a6z/actividades-pilares-16s/main/alfonsoGonzalezZempoalteca/img/modulos_dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/wolfycode-a6z/actividades-pilares-16s/blob/main/alfonsoGonzalezZempoalteca/img/modulos_light.png">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://github.com/wolfycode-a6z/actividades-pilares-16s/blob/main/alfonsoGonzalezZempoalteca/img/modulos_light.png?raw=true">
-</picture>
+![Texto alternativo](https://raw.githubusercontent.com/wolfycode-a6z/actividades-pilares-16s/main/alfonsoGonzalezZempoalteca/img/modulos_dark.png)
 
 ## Modulos
 
