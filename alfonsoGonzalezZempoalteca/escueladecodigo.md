@@ -12,7 +12,7 @@ Escuela de Código es un innovador programa educativo dedicado a enseñar progra
 
 ## Líneas terminales
 
-<img src="https://github.com/wolfycode-a6z/actividades-pilares-16s/blob/main/alfonsoGonzalezZempoalteca/img/modulos_dark.png?raw=true"  style="width:50%"></img>
+<img src="https://github.com/wolfycode-a6z/actividades-pilares-16s/blob/main/alfonsoGonzalezZempoalteca/img/modulos_dark.png?raw=true"  style="width:75%"></img>
 
 
 ## Modulos
