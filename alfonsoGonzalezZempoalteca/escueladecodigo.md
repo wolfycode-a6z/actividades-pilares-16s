@@ -1,6 +1,9 @@
-# Escuela de Código: Aprendizaje de Programación para Todos
 
-¡Bienvenido a Escuela de Código! 👩🏻‍💻 👨🏻‍💻
+# Escuela de Código: Aprendizaje de Programación para Todos
+## Módulos actuales
+[![Static Badge](https://img.shields.io/badge/Link-Pensamiento_computacional-purple)](https://pilares16deseptiembre.com/comunidad/taller/id/69)
+[![Static Badge](https://img.shields.io/badge/Link-Desarrollo_web-yellow)](https://pilares16deseptiembre.com/comunidad/taller/id/70)
+# ¡Bienvenido a Escuela de Código! 👩🏻‍💻 👨🏻‍💻
 ## ¿Qué es Escuela de Código?
 
 Escuela de Código es un innovador programa educativo dedicado a enseñar programación de manera accesible y efectiva a personas de todas las edades y niveles de experiencia. Nuestro objetivo es democratizar el acceso al aprendizaje de la programación y capacitar a individuos para tener éxito en la era digital.
@@ -12,7 +15,7 @@ Escuela de Código es un innovador programa educativo dedicado a enseñar progra
 
 ## Líneas terminales
 
-<img src="https://github.com/wolfycode-a6z/actividades-pilares-16s/blob/main/alfonsoGonzalezZempoalteca/img/modulos_dark.png?raw=true"  style="width:75%"></img>
+<img src="https://github.com/wolfycode-a6z/actividades-pilares-16s/blob/main/alfonsoGonzalezZempoalteca/img/modulos_dark.png?raw=true"  style="width:75%; margin-left:12%"></img>
 
 
 ## Modulos
