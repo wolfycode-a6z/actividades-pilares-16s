@@ -28,8 +28,8 @@ Este módulo está diseñado para brindar a los participantes una base sólida e
 ## Enlaces
 
 <div style="width:50%; display:flex; margin:auto; justify-content:space-around">
-    <img src="../assets/moodle.png"  style="width:15%">
-    <img src="../assets/instalaciones.png"  style="width:15%">
-    <img src="../assets/github.png"  style="width:15%">
-    <img src="../assets/desarrollo.png"  style="width:15%">
+    <img src="https://github.com/wolfycode-a6z/actividades-pilares-16s/blob/main/alfonsoGonzalezZempoalteca/edc/assets/moodle.png?raw=true"  style="width:15%">
+    <img src="https://github.com/wolfycode-a6z/actividades-pilares-16s/blob/main/alfonsoGonzalezZempoalteca/edc/assets/instalaciones.png?raw=true"  style="width:15%">
+    <img src="https://github.com/wolfycode-a6z/actividades-pilares-16s/blob/main/alfonsoGonzalezZempoalteca/edc/assets/github.png?raw=true"  style="width:15%">
+    <img src="https://github.com/wolfycode-a6z/actividades-pilares-16s/blob/main/alfonsoGonzalezZempoalteca/edc/assets/desarrollo.png?raw=true"  style="width:15%">
 </div>
