@@ -29,7 +29,7 @@ Este módulo está diseñado para brindar a los participantes una base sólida e
 
 <div style="width:50%; display:flex; margin:auto; justify-content:space-around">
     <div style="width:20%">
-        <a href="http://187.217.4.141/~edc/moodle/">
+        <a href="http://187.217.4.141/~edc/moodle/" style="width:100%">
             <img src="https://github.com/wolfycode-a6z/actividades-pilares-16s/blob/main/alfonsoGonzalezZempoalteca/edc/assets/moodle.png?raw=true" style="width:100%">
         </a>
     </div>
