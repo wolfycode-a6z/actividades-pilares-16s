@@ -5,7 +5,7 @@
 ![Static Badge](https://img.shields.io/badge/modalidad-sábdos-green)
 ![Static Badge](https://img.shields.io/badge/horario-10%3A00_a_14%3A00_h-red)
 
-> **ulitmo día de inscripción 18 de mayo**
+> **último día de inscripción 18 de mayo**
 
 [![GitHub followers](https://img.shields.io/github/followers/Alfonso6z)](https://github.com/Alfonso6z)
 
