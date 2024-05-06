@@ -3,6 +3,8 @@
 ## Módulos actuales
 [![Static Badge](https://img.shields.io/badge/Link-Pensamiento_computacional-purple)](https://pilares16deseptiembre.com/comunidad/taller/id/69)
 [![Static Badge](https://img.shields.io/badge/Link-Desarrollo_web-yellow)](https://pilares16deseptiembre.com/comunidad/taller/id/70)
+[![Static Badge](https://img.shields.io/badge/Link-Visual_Studio_Code-blue)](https://pilares16deseptiembre.com/comunidad/taller/id/73)
+[![Static Badge](https://img.shields.io/badge/Link-Git-orange)](https://pilares16deseptiembre.com/comunidad/taller/id/72)
 # ¡Bienvenido a Escuela de Código! 👩🏻‍💻 👨🏻‍💻
 ## ¿Qué es Escuela de Código?
 
