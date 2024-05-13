@@ -39,3 +39,5 @@ El contenido del curso incluirá una introducción detallada a Git y GitHub, seg
 
 ¡Espero verte en el curso para mejorar tu productividad como desarrollador!
 
+<a href="https://gist.github.com/Alfonso6z/edd9d72eed019aa55c45d5bab460c23b" target="_blank"><img src="https://github.com/wolfycode-a6z/actividades-pilares-16s/blob/main/alfonsoGonzalezZempoalteca/edc/assets/instalaciones.png?raw=true"  style="width:30%"></a>
+<a href="https://github.com/Alfonso6z/git-curso" target="_blank"><img src="https://github.com/wolfycode-a6z/actividades-pilares-16s/blob/main/alfonsoGonzalezZempoalteca/edc/assets/github.png?raw=true"  style="width:30%"></a>
