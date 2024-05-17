@@ -38,3 +38,9 @@ El contenido del curso incluirá una combinación de clases teóricas, demostrac
 # En este curso NO se aprenderá ningún lenguaje de programación ni el uso de la computadora.
 
 ¡Espero verte en el curso y ayudarte a potenciar tu productividad como desarrollador con Visual Studio Code!
+
+# Enlaces
+<div style="width:50%; display:flex; margin:auto; justify-content:space-around">
+<a href="#" target="_blank"><img src="https://github.com/wolfycode-a6z/actividades-pilares-16s/blob/main/alfonsoGonzalezZempoalteca/edc/assets/instalaciones.png?raw=true"  style="width:30%"></a>
+<a href="https://github.com/Alfonso6z/vsc-curso" target="_blank"><img src="https://github.com/wolfycode-a6z/actividades-pilares-16s/blob/main/alfonsoGonzalezZempoalteca/edc/assets/github.png?raw=true"  style="width:30%"></a>
+</div>
