@@ -37,4 +37,4 @@ Los diseños seleccionados serán impresos en una carpeta especial que será dis
 Pilares Dolores Olmedo</strong></p>
 </div>
 
-> [Convocatoria oficial pdf](assets/pdf/Dibujando%20por%20el%20agua%20correcciones.docx.pdf)
+> [Convocatoria oficial pdf](https://drive.google.com/file/d/198OrAe9zOlwXlJ5ZjnRYzTy3Dqbf_nUc/view?usp=sharing)
