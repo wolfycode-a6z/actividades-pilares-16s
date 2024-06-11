@@ -1,6 +1,6 @@
 
 # Secundaria en un examen
-
+#### [Únete al grupo de WhatsApp](https://chat.whatsapp.com/E8hdBm4xcMi6WPouqCVzD7)
 ## Módulos del curso
 - Pensamiento Matemático
 - Lengua y Comunicación
